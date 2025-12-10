@@ -145,12 +145,7 @@ export default function Portfolio() {
             <section>
               <h2 className="text-2xl font-bold text-[#87CEEB] mb-2">Education</h2>
               <div className="space-y-4">
-                {/* <div className="bg-white p-4 rounded-lg shadow-sm">
-                  <h3 className="text-lg font-bold text-black">Master of Science in Computer Science</h3>
-                  <p className="text-sm text-gray-500 mb-1">Stanford University | 2014 - 2016</p>
-                  <p className="text-sm text-gray-600">Specialization: Distributed Systems and Cloud Computing</p>
-                </div> */}
-
+              
                 <div className="bg-white p-4 rounded-lg shadow-sm">
                   <h3 className="text-lg font-bold text-black">Bachelor of Business Information Technology</h3>
                   <p className="text-sm text-gray-500 mb-1">Jomo Kenyatta University of Agriculture & Technology, Kenya | September 2014 - June 2018</p>
