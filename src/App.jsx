@@ -7,7 +7,7 @@ export default function Portfolio() {
       <div className="max-w-[1200px] mx-auto">
         {/* Header Section */}
         <header className="text-center mb-6 pb-4 border-b-2 border-gray-200">
-          <h1 className="text-4xl font-bold text-black mb-2">John Doe</h1>
+          <h1 className="text-4xl font-bold text-black mb-2">Simeon Kanani</h1>
           <p className="text-lg text-gray-600 mb-3">Solution Architect & Systems Engineer</p>
           <div className="flex justify-center gap-6">
             <a href="mailto:john.doe@gmail.com" className="flex items-center gap-2 text-gray-600 hover:text-[#87CEEB] transition-colors text-sm">
